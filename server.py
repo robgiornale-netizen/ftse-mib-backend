@@ -7,7 +7,7 @@ Installazione:
     pip install flask flask-cors yfinance
 
 Avvio:
-    python server.py
+    python app.py
 """
 
 import json
